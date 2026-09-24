@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <rect width="1280" height="640" fill="#1A3A5C"/>
+
+  <!-- Símbolo em escala grande -->
+  <g transform="translate(160,140)">
+    <g fill="none" stroke="#E8A33D" stroke-width="30"
+       stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 280 40 C 180 40, 160 140, 80 140"/>
+      <path d="M 80 140 C 160 140, 180 240, 280 240"/>
+      <path d="M 280 240 C 180 240, 160 340, 80 340"/>
+    </g>
+    <circle cx="280" cy="40" r="26" fill="#E8A33D"/>
+    <circle cx="80" cy="140" r="26" fill="#E8A33D"/>
+    <circle cx="280" cy="240" r="26" fill="#E8A33D"/>
+    <circle cx="80" cy="340" r="26" fill="#E8A33D"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="620" y="300"
+        font-family="Archivo, Helvetica, sans-serif"
+        font-size="110" font-weight="700"
+        fill="#F5F2EC" letter-spacing="-3">Synapta</text>
+  <text x="625" y="355"
+        font-family="Archivo, Helvetica, sans-serif"
+        font-size="26" font-weight="400"
+        fill="#E8A33D" letter-spacing="10">SOLUÇÕES DIGITAIS</text>
+
+  <line x1="625" y1="405" x2="1050" y2="405" stroke="#E8A33D" stroke-width="2" opacity="0.4"/>
+
+  <text x="625" y="460"
+        font-family="Archivo, Helvetica, sans-serif"
+        font-size="22" font-weight="300" fill="#F5F2EC" opacity="0.7">
+    Sinal. Estrutura. Direção.
+  </text>
+</svg>

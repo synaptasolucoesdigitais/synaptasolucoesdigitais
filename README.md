@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <img src="./docs/banner.svg" alt="Synapta" width="100%">
+</p>
 
-<!--
-**synaptasolucoesdigitais/synaptasolucoesdigitais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Sobre a Synapta
 
-Here are some ideas to get you started:
+A Synapta é um ecossistema de soluções digitais. Atuamos como a estrutura que conecta ideias, tecnologia, pessoas e soluções.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Nossos pilares:**
+- **Sinal** — Clareza e direção em cada projeto.
+- **Estrutura** — Bases sólidas para o crescimento.
+- **Conexão** — Tecnologia que aproxima.
+
+<p align="center">
+  <sub>© 2026 Synapta Soluções Digitais · Solucções Digitais.</sub>
+</p>
